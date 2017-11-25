@@ -2,6 +2,7 @@
 layout: post
 title:  "A muszlimok már a spájzban vannak - húsz éve!"
 categories: jekyll update
+img: http://agostonlaszlo.hu/images/muszlimno.JPG
 ---
 Miért robbantgatnak, ha az iszlám a béke vallása? Miért nem egyenjogúak a nők? Tényleg arra hív a Korán, hogy minden gyaur kutyát megöljenek vagy térítsenek az "igaz hitre"? A Magyar Iszlám Közösség ajtaja előtt állok. Hőség van. Izzadok. Belépek.
 
