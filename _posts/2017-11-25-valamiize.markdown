@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post with no image"
+title:  "Ádám Zsuzsi"
 categories: jekyll update
 ---
 When there is no image mentioned in the front-matter, default image will be displaye.. You can change this image to any other one that suits your needs.
